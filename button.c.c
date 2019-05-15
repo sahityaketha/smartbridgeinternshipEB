@@ -2,7 +2,7 @@
  * initial.c
  *
  * Created: 10-05-2019 11:22:13
- * Author : AMRUTHA
+ * Author : SAHITYA
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
