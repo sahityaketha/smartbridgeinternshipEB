@@ -2,7 +2,7 @@
  * ldr sensor.c
  *
  * Created: 14-05-2019 11:40:47
- * Author : AMRUTHA
+ * Author : SAHITYA
  */ 
 #include <avr/io.h>
 #define F_CPU 16000000UL
