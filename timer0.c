@@ -2,7 +2,7 @@
  * timer.c
  *
  * Created: 15-05-2019 10:33:55
- * Author : VAMSI SRIRAM
+ * Author : SAHITYA
  */ 
 
 #include <avr/io.h>
