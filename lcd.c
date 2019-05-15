@@ -2,7 +2,7 @@
  * lcd.c
  *
  * Created: 10-05-2019 14:25:51
- * Author : AMRUTHA
+ * Author : SAHITYA
  */ 
 
 #include <avr/io.h>
