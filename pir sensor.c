@@ -2,7 +2,7 @@
  * pir.c
  *
  * Created: 13-05-2019 10:46:31
- * Author : AMRUTHA
+ * Author : SAHITYA
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
