@@ -2,7 +2,7 @@
  * steppermotor.c
  *
  * Created: 5/16/2019 3:24:49 PM
- * Author : Eswari
+ * Author : Sahitya
  */ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
