@@ -2,7 +2,7 @@
  * dcmotpot1.c
  *
  * Created: 5/16/2019 12:54:38 PM
- * Author : Eswari
+ * Author : Sahitya
  */
  #define F_CPU 8000000UL
  #include <avr/io.h>
